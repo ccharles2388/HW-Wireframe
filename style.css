@@ -1,0 +1,28 @@
+header,nav,section,article,div,aside,footer {
+border: solid
+}
+
+header {
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+nav {
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+section {
+    height: 150px;
+    width: 495px;
+    padding: 5px;
+}
+
+article {
+    height: 75px;
+    
+}
+
+div {
+    
+}
