@@ -39,7 +39,9 @@ section {
 
 article {
     text-align: center;
-    height: 75px;
+    height: 125px;
+    color: #ebebeb;
+    background: #777;
    
    
     
@@ -50,9 +52,9 @@ div {
     
 }
 aside {
-    height: 150px;
-    width: 300px;
+    
     background: #ebebeb;
+
 
 }
 
